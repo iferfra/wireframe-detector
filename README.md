@@ -44,8 +44,6 @@ Inference results using the provided distilled checkpoint.
 | ![Output1](media/test_1_lines.jpg) |
 | ![Output1](media/test_1_keypoints.jpg) |
 
-> Outputs are saved automatically with a `_pred.jpg` suffix in the same folder as the input.
-
 ---
 
 ## 🧪 How to Run Inference
@@ -53,7 +51,7 @@ Inference results using the provided distilled checkpoint.
 To run inference on your own image using the pretrained checkpoint:
 
 ```bash
-python -m scripts.inference \
+python scripts/inference.py \
   --image media/test2.jpg \
   --checkpoint checkpoints/checkpoint.pth \
   --device cuda  # use 'cpu' if CUDA is not available
