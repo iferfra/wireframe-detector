@@ -4,7 +4,7 @@
 
 ## 📄 Paper
 
-**[Learning to Detect and Describe a Wireframe (Accepted Manuscript)](paper/Learning to Detect and Describe a Wireframe.pdf)**  
+**[Learning to Detect and Describe a Wireframe (Accepted Manuscript)](paper/Learning%20to%20Detect%20and%20Describe%20a%20Wireframe.pdf)**  
 *Iván Ferre, Luis Baumela, and Iago Suárez*  
 <sub>Universidad Politécnica de Madrid, Machine Learning Circle, Qualcomm XR Labs Europe</sub>
 
