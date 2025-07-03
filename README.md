@@ -2,7 +2,29 @@
 
 **Wireframe Detector** is a deep learning model for joint detection of **wireframes** (structural line segments) and **keypoints with descriptors** in images. The model is trained using **knowledge distillation** from the expert models [HAWP](https://github.com/cherubicXN/hawp) and [DISK](https://github.com/cvlab-epfl/disk), effectively combining both high-level geometric understanding and local feature precision.
 
----
+## 📄 Paper
+
+**[Learning to Detect and Describe a Wireframe (Accepted Manuscript)](paper/Learning to Detect and Describe a Wireframe.pdf)**  
+*Iván Ferre, Luis Baumela, and Iago Suárez*  
+<sub>Universidad Politécnica de Madrid, Machine Learning Circle, Qualcomm XR Labs Europe</sub>
+
+> This is the accepted manuscript of the paper, made available in accordance with the publisher's self-archiving policy.  
+> It has been peer-reviewed and accepted for publication, but has not undergone final copy-editing or typesetting.  
+> Please cite the Version of Record when available.
+
+ℹ️ The paper will be officially published by **Springer Nature**, and this version is provided under their  
+[Accepted Manuscript Terms](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms).
+
+### 📚 Citation
+
+```bibtex
+@article{ferre2025wireframe,
+  title={Learning to Detect and Describe a Wireframe},
+  author={Ferre, Iván and Baumela, Luis and Suárez, Iago},
+  journal={To appear},
+  year={2025}
+}
+```
 
 ## 🛠️ Installation
 
