@@ -8,23 +8,24 @@
 *Iván Ferre, Luis Baumela, and Iago Suárez*  
 <sub>Universidad Politécnica de Madrid, Machine Learning Circle, Qualcomm XR Labs Europe</sub>
 
-> This is the accepted manuscript of the paper, made available in accordance with the publisher's self-archiving policy.  
-> It has been peer-reviewed and accepted for publication, but has not undergone final copy-editing or typesetting.  
-> Please cite the Version of Record when available.
+> This is the **accepted manuscript** of the paper, made available in accordance with the publisher's self-archiving policy.  
+> It has been **peer-reviewed and accepted for publication** at *IbPRIA 2025: 12th Iberian Conference on Pattern Recognition and Image Analysis*,  
+> but has **not undergone final copy-editing or typesetting**.  
+> Please cite the **Version of Record** when it becomes available.
 
-ℹ️ The paper will be officially published by **Springer Nature**, and this version is provided under their  
-[Accepted Manuscript Terms](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms).
+ℹ️ The paper will be published by **Springer Nature** in the proceedings of IbPRIA 2025.  
+This version is shared under their [Accepted Manuscript Terms](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms).  
+A DOI link will be added here once available.
 
 ### 📚 Citation
 
 ```bibtex
-@article{ferre2025wireframe,
+@inproceedings{ferre2025wireframe,
   title={Learning to Detect and Describe a Wireframe},
   author={Ferre, Iván and Baumela, Luis and Suárez, Iago},
-  journal={To appear},
+  booktitle={Proceedings of the 12th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)},
   year={2025}
 }
-```
 
 ## 🛠️ Installation
 
