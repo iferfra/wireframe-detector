@@ -26,7 +26,7 @@ A DOI link will be added here once available.
   booktitle={Proceedings of the 12th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)},
   year={2025}
 }
-
+```
 ## 🛠️ Installation
 
 We recommend using a Python virtual environment to isolate dependencies.
