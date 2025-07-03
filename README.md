@@ -27,6 +27,18 @@ A DOI link will be added here once available.
   year={2025}
 }
 ```
+
+## 🚀 Demo
+
+Try the model on **images**, **videos**, or explore **keypoint matching** across frames:
+
+👉 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/iferfra/wireframe-detector)
+
+> ⚠️ Note: This demo runs on **CPU** only. Inference might take a few seconds per frame—be patient!  
+> For best performance, run locally with a GPU.
+
+---
+
 ## 🛠️ Installation
 
 We recommend using a Python virtual environment to isolate dependencies.
