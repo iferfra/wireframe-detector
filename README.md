@@ -72,12 +72,14 @@ pip install -e .
 
 Inference results using the provided distilled checkpoint.
 
-| Wireframes & Keypoints |
-|-----------------------|
-| ![Output1](media/test_2_lines.jpg) |
-| ![Output1](media/test_2_keypoints.jpg) |
-| ![Output1](media/test_1_lines.jpg) |
-| ![Output1](media/test_1_keypoints.jpg) |
+| Wireframes & Keypoints                   |
+|------------------------------------------|
+| ![Output1](media/test_2_lines.jpg)       |
+| ![Output1](media/test_2_keypoints.jpg)   |
+| ![Output1](media/test_1_lines.jpg)       |
+| ![Output1](media/test_1_keypoints.jpg)   |
+| ![Demo GIF](media/output_inference.gif)  |
+| ![Demo GIF 2](media/output_matching.gif) |
 
 ---
 
